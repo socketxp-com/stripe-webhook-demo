@@ -7,7 +7,6 @@ import (
     "net/http"
     "os"
 
-    stripe "github.com/stripe/stripe-go"
     "github.com/stripe/stripe-go/webhook"
 )
 
